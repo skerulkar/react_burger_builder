@@ -75,7 +75,7 @@ class ContactData extends Component {
                 valid: false,
                 touched: false
             },
-            delivaryMethod: {
+            deliveryMethod: {
                 elementType: 'select',
                 elementConfig: {
                     options: [{
